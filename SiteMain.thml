@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <?php
+            require ("F:\Xampp\htdocs\Site\index.php");
+        ?>
+    </head>
+    <body>
+
+    </body>
+</html>
